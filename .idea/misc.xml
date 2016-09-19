@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="/media/dev1/YurijL/Projects">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://192.168.0.5/svn_jomedia/Guillaume" />
+                  <option value="http://192.168.0.5/svn_jomedia/branches" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones_max" />
+                  <option value="http://192.168.0.5/svn_jomedia/test_branch" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://192.168.0.5/svn_jomedia/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="/media/dev1/aleksandrl/Projects">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://192.168.0.5/svn_jomedia/Guillaume" />
+                  <option value="http://192.168.0.5/svn_jomedia/branches" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones_max" />
+                  <option value="http://192.168.0.5/svn_jomedia/test_branch" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://192.168.0.5/svn_jomedia/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="/media/dev1/aleksandrp/Projects">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://192.168.0.5/svn_jomedia/Guillaume" />
+                  <option value="http://192.168.0.5/svn_jomedia/branches" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones_max" />
+                  <option value="http://192.168.0.5/svn_jomedia/test_branch" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://192.168.0.5/svn_jomedia/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="/media/dev1/denisc/Projects">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://192.168.0.5/svn_jomedia/Guillaume" />
+                  <option value="http://192.168.0.5/svn_jomedia/branches" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones_max" />
+                  <option value="http://192.168.0.5/svn_jomedia/test_branch" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://192.168.0.5/svn_jomedia/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="/media/dev1/ivand/Projects">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://192.168.0.5/svn_jomedia/Guillaume" />
+                  <option value="http://192.168.0.5/svn_jomedia/branches" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones_max" />
+                  <option value="http://192.168.0.5/svn_jomedia/test_branch" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://192.168.0.5/svn_jomedia/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="/media/dev1/yuraa/Projects">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="http://192.168.0.5/svn_jomedia/Guillaume" />
+                  <option value="http://192.168.0.5/svn_jomedia/branches" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones" />
+                  <option value="http://192.168.0.5/svn_jomedia/new_clones_max" />
+                  <option value="http://192.168.0.5/svn_jomedia/test_branch" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="http://192.168.0.5/svn_jomedia/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
